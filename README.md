@@ -3,12 +3,12 @@
 ---
 
 #### Papers
-| # | Paper | Keywords | Abstract | Remark |
-|---|-------|----------|------------|------|
-| | | | | |
+| # | Model | Title | Resources | Remark |
+|---|FM|Factorization Machines|[pdf](./papers/Rendle2010FM.pdf)|------|
+|---|GBDT+LR |Practical Lessons from Predicting Clicks on Ads at Facebook|[pdf](./papers/practical-lessons-from-predicting-clicks-on-ads-at-facebook.pdf) | |
 
 #### Learning-Notes
-| # | Notes | Keywords | Abstract | Remark |
+| # | Tags | Title | Resources | Remark |
 |---|-------|----------|------------|------|
 | | | | | |
 
