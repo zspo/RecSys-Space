@@ -4,8 +4,9 @@
 
 #### Papers
 | # | Model | Title | Resources | Remark |
-|---|FM|Factorization Machines|[pdf](./papers/Rendle2010FM.pdf)|------|
-|---|GBDT+LR |Practical Lessons from Predicting Clicks on Ads at Facebook|[pdf](./papers/practical-lessons-from-predicting-clicks-on-ads-at-facebook.pdf) | |
+|---|-------|----------|------------|------|
+|---|FM|Factorization Machines|[[paper]](https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/Rendle2010FM.pdf) [[pdf]](./papers/Rendle2010FM.pdf)|------|
+|---|GBDT+LR |Practical Lessons from Predicting Clicks on Ads at Facebook|[[paper]](https://research.fb.com/publications/practical-lessons-from-predicting-clicks-on-ads-at-facebook/) [[pdf]](./papers/practical-lessons-from-predicting-clicks-on-ads-at-facebook.pdf) | |
 
 #### Learning-Notes
 | # | Tags | Title | Resources | Remark |
