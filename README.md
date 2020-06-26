@@ -1,5 +1,4 @@
 # Ads-RecSys-Space
-
 ---
 
 ### Papers
@@ -8,11 +7,12 @@
 |FM|Factorization Machines|[[paper]](https://cseweb.ucsd.edu/classes/fa17/cse291-b/reading/Rendle2010FM.pdf) [[pdf]](./papers/Rendle2010FM.pdf)|-|
 |GBDT+LR |Practical Lessons from Predicting Clicks on Ads at Facebook|[[paper]](https://research.fb.com/publications/practical-lessons-from-predicting-clicks-on-ads-at-facebook/) [[pdf]](./papers/practical-lessons-from-predicting-clicks-on-ads-at-facebook.pdf) | [[code]](https://github.com/zspo/gbdt-xgboost-lr)|
 |FFM|Field-aware Factorization Machines for CTR Prediction|[[paper]](https://dl.acm.org/doi/abs/10.1145/2959100.2959134) [[pdf]](./papers/ffm.pdf)|-|
+|DeepFM|DeepFM: A Factorization-Machine based Neural Network for CTR Prediction|[[paper]](https://arxiv.org/abs/1703.04247) [[pdf]](./papers/deeofm.pdf)|-|
 |Wide&Deep|Wide & Deep Learning for Recommender Systems|[[paper]](https://arxiv.org/pdf/1606.07792.pdf) [[pdf]](./papers/Wide&Deep.pdf)|-|
 |||||
 
 ### Learning-Notes
-| Tags | Title | Resources | Remark |
+| Tags | Title | Resources | Remarks |
 |-------|----------|------------|------|
 | | | | |
 
