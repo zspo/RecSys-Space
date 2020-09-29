@@ -1,11 +1,11 @@
 ![from kaggle](halite-banner.gif)  
-图片来自Kaggle
+
 # **Ads-RecSys-Space**
 
 计算广告/推荐系统领域的学习整理。  
 包括点击率预估(CTR)、召回层、Embedding、序列模型、多任务等方面的**论文**、**学习笔记**及**代码实现**。
 * Python3.6
-* Tensorflow1.12 `TF2(Keras)、Pytorch后续更新)`
+* Tensorflow1.13.1
 * Spark2.3.0
 * Scala2.11
 
