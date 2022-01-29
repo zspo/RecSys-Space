@@ -9,6 +9,7 @@
 * Pytorch1.8.0
 * Spark2.3.0
 * Scala2.11
+* C++ (for inference)
 
 ---
 ### Papers
